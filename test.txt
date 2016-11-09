@@ -1,0 +1,1 @@
+Not a valid JAR: /home/souza/warc.reader.ext/warc.reader.ext-0.0.1-SNAPSHOT-job.jar
